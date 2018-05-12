@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/307
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26122#Five-Little-Peppers-at-School
 gutenberg_issued: '2008-07-25'
 gutenberg_type: Text
 identifiers:
