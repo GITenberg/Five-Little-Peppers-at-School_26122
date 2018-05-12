@@ -1,0 +1,43 @@
+_repo: Five-Little-Peppers-at-School_26122
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Heyer, Hermann
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '31805'
+    url: http://www.gutenberg.org/2009/agents/31805
+covers:
+- cover_type: archival
+  image_path: 26122-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: ''
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+tableOfContents: Hard Times for Joel -- The Tennis Match -- A Narrow Escape -- Of
+  Various Things -- At Silvia Horne's -- The Accident -- The Salisbury Girls -- “We're
+  to have our picnic!” -- All About the Poor Brakeman --  Joel and His Dog -- The
+  United Clubs -- Some Every-day Fun -- The Picnic -- Miss Salisbury's Story -- The
+  Broken Vase -- New Plans -- Phronsie -- Tom's Story -- The Grand Entertainment --
+  The Corcoran Family -- At the Play -- Pickering Dodge -- The Clemcy Garden Party
+  -- The Piece of News -- “The Very Prettiest Affair”
+title: Five Little Peppers at School
+url: http://www.gutenberg.org/ebooks/26122
